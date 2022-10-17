@@ -1,0 +1,8 @@
+fbprophet==0.7.1
+matplotlib==3.3.4
+numpy==1.20.1
+pandas==1.2.4
+pmdarima==2.0.1
+scikit_learn==1.1.2
+seaborn==0.11.1
+statsmodels==0.12.2
